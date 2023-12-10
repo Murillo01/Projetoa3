@@ -6,6 +6,8 @@ Giovanni Bordin Oséas - 823149287
 
 Willian Rodrigues Souto - 823222037
 
+Thaina Leal Santos - 821133578 
+
 Projeto referente há matéria Programação de soluções computacionais 
 
 Temos um sistema de cadastro para uma concessionária com tabelas como:
