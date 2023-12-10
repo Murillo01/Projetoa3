@@ -8,6 +8,8 @@ Willian Rodrigues Souto - 823222037
 
 Thaina Leal Santos - 821133578 
 
+Lara Anastacio Alfaro -821142737
+
 Projeto referente há matéria Programação de soluções computacionais 
 
 Temos um sistema de cadastro para uma concessionária com tabelas como:
