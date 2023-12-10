@@ -12,6 +12,8 @@ Lara Anastacio Alfaro -821142737
 
 Gabriel da Silva Costa - 821140338
 
+Naiara Santos Silva - 822228080
+
 Projeto referente há matéria Programação de soluções computacionais 
 
 Temos um sistema de cadastro para uma concessionária com tabelas como:
